@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[littlemiss]]></title>
-        <description><![CDATA[littlemiss]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Little Miss Explorers]]></title>
+        <description><![CDATA[Little Miss Explorers]]></description>
+        <link>https://thegrid.ai/littlemiss/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 03:19:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Apr 2016 03:29:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/littlemiss/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>this is a test</p>]]></description>
-            <link>undefinedthis-is-a-test/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f003eea6-fb0a-40ba-8911-be83506cb6e6.jpg">]]></description>
+            <link>https://thegrid.ai/littlemiss/this-is-a-test/index.html</link>
             <guid isPermaLink="false">069c3728-9ca8-45fd-80b8-fb77902ebdc7</guid>
-            <pubDate>Sat, 09 Apr 2016 03:19:53 GMT</pubDate>
+            <pubDate>Sat, 09 Apr 2016 03:28:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
