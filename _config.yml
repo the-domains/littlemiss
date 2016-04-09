@@ -1,7 +1,7 @@
 name: littlemiss
 favicon: null
-layout_spectrum: 0.8423282371368259
-typography_spectrum: 0.026162852300330997
+layout_spectrum: 0.74508
+typography_spectrum: 0.51073
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.7805032993201166
-  lightness: 0.4640144258737564
-  saturation: 0.21615943452343345
-  rhythmicContrast: 0.4204457844607532
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
